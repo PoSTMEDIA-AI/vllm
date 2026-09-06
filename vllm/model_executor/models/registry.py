@@ -210,6 +210,7 @@ _TEXT_GENERATION_MODELS = {
     "TeleChat3ForCausalLM": ("llama", "LlamaForCausalLM"),
     "TeleFLMForCausalLM": ("teleflm", "TeleFLMForCausalLM"),
     "Zamba2ForCausalLM": ("zamba2", "Zamba2ForCausalLM"),
+    "RosettaForCausalLM": ("rosetta", "RosettaForCausalLM"),
 }
 
 _EMBEDDING_MODELS = {

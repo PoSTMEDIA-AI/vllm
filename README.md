@@ -1,3 +1,5 @@
+> **PoSTMEDIA fork** — based on vLLM **v0.26.0** with native support for the **Rosetta** architecture (`RosettaForCausalLM`, PoSTMEDIA Rosetta-7B family). Install: `VLLM_USE_PRECOMPILED=1 pip install git+https://github.com/PoSTMEDIA-AI/vllm@rosetta-v0.26.0`
+
 <!-- markdownlint-disable MD001 MD041 -->
 <p align="center">
   <picture>

@@ -577,6 +577,7 @@ _TEXT_GENERATION_EXAMPLE_MODELS = {
     "MiMoV2ForCausalLM": _HfExamplesInfo(
         "XiaomiMiMo/MiMo-V2.5-Pro", trust_remote_code=True
     ),
+    "RosettaForCausalLM": _HfExamplesInfo("PoSTMEDIA/Rosetta-7B-Instruct"),
 }
 
 _EMBEDDING_EXAMPLE_MODELS = {

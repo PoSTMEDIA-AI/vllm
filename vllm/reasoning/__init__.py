@@ -132,6 +132,10 @@ _REASONING_PARSERS_TO_REGISTER = {
         "inkling_reasoning_parser",
         "InklingParserReasoningAdapter",
     ),
+    "rosetta": (
+        "rosetta_reasoning_parser",
+        "RosettaReasoningParser",
+    ),
 }
 
 
